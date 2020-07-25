@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**keezysilencer/keezysilencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Keezy, a mathematician that fell in love with software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![GitHub followers](https://img.shields.io/github/followers/keezysilencer?style=social)](https://github.com/themisir)
+[![Twitter Follow](https://img.shields.io/twitter/follow/keezysilencer23?style=social)](https://twitter.com/keezysilencer23)
+
+- 🔭 I’m currently working on a ride sharing app, mobile payment and client request stuff
+- 🌱 I’m currently learning Reinforcement learning
+- 💬 Ask me about abstract concepts and geeky stuff
+- 🤬 I hate working with unsafe typed languages
+- 📫 Reach me on twitter
+
+
+My favourites for making job done are:
+
+- Flutter for mobile dev
+- Django for backend dev
+- Tensorflow for machine learning
+- PostgreSQL for hosting and managing structed data
+- Apache2 for hosting apps
+- GitHub Actions and GitLab CI for CI/CD
+
 -->
