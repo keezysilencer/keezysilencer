@@ -9,7 +9,6 @@ I am Keezy, a mathematician that fell in love with software.
 - 🔭 I’m currently working on a ride sharing app, mobile payment and client request stuff
 - 🌱 I’m currently learning Reinforcement learning
 - 💬 Ask me about abstract concepts and geeky stuff
-- 🤬 I hate working with unsafe typed languages
 - 📫 Reach me on twitter
 
 
@@ -20,6 +19,5 @@ My favourites for making job done are:
 - Tensorflow for machine learning
 - PostgreSQL for hosting and managing structed data
 - Apache2 for hosting apps
-- GitHub Actions and GitLab CI for CI/CD
+- GitHub Actions for CI/CD
 
--->
