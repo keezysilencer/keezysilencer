@@ -15,9 +15,9 @@ I am Keezy, a mathematician that fell in love with software.
 My favourites but not restricted to are:
 
 - Flutter for mobile dev
-- Django/NodeJS for backend dev
+- Django for backend dev
 - Tensorflow for machine learning
-- PostgreSQL for hosting and managing structed data
-- Apache2 for hosting apps
+- PostgreSQL/SQL for hosting and managing structed data
+- Apache2/Nginix for hosting apps
 - GitHub Actions for CI/CD
 
