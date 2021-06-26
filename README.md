@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Keezy, a mathematician that fell in love with software.
+I am Kelvin, a mathematician that fell in love with software.
 
 [![GitHub followers](https://img.shields.io/github/followers/keezysilencer?style=social)](https://github.com/themisir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/keezysilencer23?style=social)](https://twitter.com/keezysilencer23)
