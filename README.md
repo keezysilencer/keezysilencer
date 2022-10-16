@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Kelvin, a mathematician and a software developmer. I have a deep understanding of the basics of computing HTTP, REST, Data analysis, GraphQL, and OSI model and I’m an avid student of SOLID principles, YAGNI and Test Driven Development etc. With a range of expertise in software development, clean architecture and the 12-factor approach. I have experience working with google cloud services for developing serverless application. 
+I am Kelvin, a mathematician and a software developer. I have a deep understanding of the basics of computing HTTP, REST, Data analysis, GraphQL, and OSI model and I’m an avid student of SOLID principles, YAGNI and Test Driven Development etc. With a range of expertise in software development, clean architecture and the 12-factor approach. I have experience working with google cloud services for developing serverless application. 
 
 [![GitHub followers](https://img.shields.io/github/followers/keezysilencer?style=social)](https://github.com/keezysilencer)
 [![Twitter Follow](https://img.shields.io/twitter/follow/keezy950?style=social)](https://twitter.com/keezy950)
