@@ -6,10 +6,10 @@ I am Kelvin, a mathematician and a software developer. I have a deep understandi
 [![GitHub followers](https://img.shields.io/github/followers/keezysilencer?style=social)](https://github.com/keezysilencer)
 [![Twitter Follow](https://img.shields.io/twitter/follow/keezy950?style=social)](https://twitter.com/keezy950)
 
-- 🔭 I’m a technical Project Manager.
+- 🔭 I’m a Senior Software Engineer.
 - 🌱 Currently learning Reinforcement learning
-- 💬 Ask me about abstract concepts and geeky stuff
-- 📫 Reach me on twitter
+- 💬 Ask me about abstract concepts and systems design stuff
+- 📫 Reach me on X
 
 
 
